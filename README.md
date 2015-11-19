@@ -5,7 +5,9 @@ up server stuff to start your development. This seed includes AngularJS on the f
 Handlebars on the back. Instead of wasting your time on Project configuration you can start making awesome apps today.
 
 As Template Engine I chose Handlebars instead of Jade. Even though Handlebars has some conflicts with Angular,
-I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them: **\\{{testExpression}}**
+I find the syntax a lot better. If you want to use AngularJS expressions inside the templates you have to escape them:
+
+**\\{{testExpression}}**
 
 ## How to use it
 
