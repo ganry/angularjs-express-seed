@@ -2,11 +2,11 @@
   "name": "application-name",
   "description": "AngularJs and Express seed",
   "version": "0.0.0",
-  "author": "Henry Keller <henry@inapp.eu>",
-  "homepage": "http://www.henrykeller.eu",
+  "author": "Henry Keller <henry@creativemind.info>",
+  "homepage": "http://www.creativemind.info",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nyozz/angularjs-express-seed"
+    "url": "https://github.com/ganry/angularjs-express-seed"
   },
   "dependencies": {
     "body-parser": "^1.14.1",
