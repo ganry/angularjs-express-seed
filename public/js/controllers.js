@@ -5,6 +5,6 @@
  */
 
 angular.module('myApp.controllers', [])
-.controller('HomeCtrl', function($scope, socketFactory) {
+.controller('HomeCtrl', function($scope) {
 
 });
