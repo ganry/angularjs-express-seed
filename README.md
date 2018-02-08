@@ -58,4 +58,4 @@ For more on Express and Handlebars, http://expressjs.com/ and http://handlebarsj
 your friends.
 
 If you search for more seeds and example Apps regarding AngularJS you can visit my homepage.
-http://www.henrykeller.eu
+http://www.virtualgeek.eu
